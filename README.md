@@ -23,6 +23,9 @@ Open the address Vite prints. In development, the default server `http://127.0.0
 In another terminal:
 
 ```bash
+# Requires at least 12GB of VRAM/Unified RAM
+mlx-serve pull ddalcu/Qwen-Image-2.1-Turbo-MLX-Serve-4bit
+mlx-serve pull LiquidAI/LFM2.5-2.6B
 mlx-serve serve
 ```
 
