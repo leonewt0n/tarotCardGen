@@ -1,7 +1,6 @@
 # The Local Arcana
 
-![demo](https://github.com/leonewt0n/tarotCardGen/raw/refs/heads/main/demo.mov)
-
+![demo video](https://github.com/leonewt0n/tarotCardGen/raw/refs/heads/main/demo.mov)
 
 A tarot table that never leaves the Mac. The browser shuffles a full 78-card deck. A chat model on [mlx-serve](https://mlxserve.com) reads the spread. An image model can paint each face. The shuffle, the meanings, and the last layout stay on this machine. Only the reading and the paintings travel, and they travel as far as `127.0.0.1`.
 
