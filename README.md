@@ -2,6 +2,9 @@
 
 ![demo video](https://github.com/leonewt0n/tarotCardGen/raw/refs/heads/main/demo.mov)
 
+<img width="2638" height="2506" alt="image" src="https://github.com/user-attachments/assets/d477184e-e69e-46bc-a396-d3288ce5cdbe" />
+
+
 A tarot table that never leaves the Mac. The browser shuffles a full 78-card deck. A chat model on [mlx-serve](https://mlxserve.com) reads the spread. An image model can paint each face. The shuffle, the meanings, and the last layout stay on this machine. Only the reading and the paintings travel, and they travel as far as `127.0.0.1`.
 
 Printed faces and the deck’s own meanings still work when the server is off. The models are optional company, not a requirement to sit down.
